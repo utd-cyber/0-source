@@ -13,9 +13,9 @@ website:
     pinned: true
     background: "#d47f41"
     right:
-       - text: "Open-Source Intelligence"
+       - text: "Open-Source Intelligence's24 "
          href: osint-s24
-       - text: "Open-Source Intelligence 2"
+       - text: "Capstone In Cyber: Security and Policy's24"
          href: caps-s24
 #      - syllabus.qmd
 #      - schedule.qmd
