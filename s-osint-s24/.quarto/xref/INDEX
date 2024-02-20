@@ -1,0 +1,41 @@
+{
+  "task.qmd": {
+    "task.html": "a3f85eb6"
+  },
+  "t3_databases/index.qmd": {
+    "index.html": "dbb4ee87"
+  },
+  "t3_databases/meetings/index.qmd": {
+    "index.html": "e83a5df6"
+  },
+  "t3_databases/meetings/meeting-04.qmd": {
+    "meeting-04.html": "e97de674"
+  },
+  "t3_databases/meetings/meeting-05.qmd": {
+    "meeting-05.html": "6daf5d38"
+  },
+  "t3_databases/meetings/meeting-01.qmd": {
+    "meeting-01.html": "5e5931eb"
+  },
+  "t3_databases/meetings/meeting-02.qmd": {
+    "meeting-02.html": "ec691547"
+  },
+  "t3_databases/meetings/meeting-03.qmd": {
+    "meeting-03.html": "4c37c861"
+  },
+  "index.qmd": {
+    "index.html": "009dbdf2"
+  },
+  "about.qmd": {
+    "about.html": "285044dc"
+  },
+  "t3_databases/example/index.qmd": {
+    "index.html": "48d9ed05"
+  },
+  "t3_databases/example/01-cyberbooks.qmd": {
+    "01-cyberbooks.html": "4ca4c476"
+  },
+  "t3_databases/01-cyberbooks.qmd": {
+    "01-cyberbooks.html": "1ff47ce8"
+  }
+}

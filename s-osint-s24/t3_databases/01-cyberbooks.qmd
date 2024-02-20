@@ -1,0 +1,29 @@
+---
+title: "From Data Bases to Data Collection"
+---
+# CyberBooks Data
+### Navigation
+[up](..)
+
+### Steps
+Intall R & Rstudio
+[Check complete CyberBooks DataSet](cyberbooks.csv)
+
+
+### CyberBooks Data
+
+| Book | Author         | Classes      |
+|------|----------------|--------------|
+| Game of Thrones  | Martin          | [Malware Analysis](01)   |
+| Strike           | Rowling         | [Malware Analysis](01)  [Digital Poison](02) [Boxing](03)|
+| Harry Potter     | Rowling         | [Digital Poison](02) [Boxing](03)  |
+| Cursed Child     | Rowling         | [Malware Analysis](01) [Digital Poison](02) [Cyber Defense](04)|  |
+
+### Magic Cyber Classes Data
+
+| Class                | Required         |
+|------|----------------|
+|[Cyber Defense](04)    | Harry Potter, Strike  |
+| [Boxing](03)          |  Strike, Cursed Child|
+| [Digital Poison](02)  | Strike, Cursed Child, Harry Potter | 
+| [Malware Analysis](01)| Game of Thrones, Strike |

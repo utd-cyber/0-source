@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-03.html",
+    "href": "t3_databases/meetings/meeting-03.html",
+    "title": "Meeting-03",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/26\nImportant\nNatalie, Isabella, Omar, Alex\n\n\n\nindex"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-01.html",
+    "href": "t3_databases/meetings/meeting-01.html",
+    "title": "Meeting-01",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/24\nImportant\nSamantha, Isabella, Miguel, Alex, Jordan, Tyler, Ava\n\n\n\nindex"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-04.html",
+    "href": "t3_databases/meetings/meeting-04.html",
+    "title": "Meeting-04",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/27\nVery Important\nAva, Ethan, Omar, Isabella\n\n\n\nindex"
+  },
+  {
+    "objectID": "t3_databases/index.html",
+    "href": "t3_databases/index.html",
+    "title": "Folders VS Databases",
+    "section": "",
+    "text": "Handout 01\n01 CyberBooks VS CyberClasses\nMeetings Data\nEmployee Data\nWeb Archive"
+  },
+  {
+    "objectID": "t3_databases/index.html#intro",
+    "href": "t3_databases/index.html#intro",
+    "title": "Folders VS Databases",
+    "section": "",
+    "text": "Handout 01\n01 CyberBooks VS CyberClasses\nMeetings Data\nEmployee Data\nWeb Archive"
+  },
+  {
+    "objectID": "task.html",
+    "href": "task.html",
+    "title": "Task",
+    "section": "",
+    "text": "Header\nYour content here…"
+  },
+  {
+    "objectID": "t3_databases/01-cyberbooks.html",
+    "href": "t3_databases/01-cyberbooks.html",
+    "title": "From Data Bases to Data Collection",
+    "section": "",
+    "text": "CyberBooks Data\n\nNavigation\nup\n\n\nSteps\nIntall R & Rstudio Check complete CyberBooks DataSet\n\n\nCyberBooks Data\n\n\n\nBook\nAuthor\nClasses\n\n\n\n\nGame of Thrones\nMartin\nMalware Analysis\n\n\nStrike\nRowling\nMalware Analysis Digital Poison Boxing\n\n\nHarry Potter\nRowling\nDigital Poison Boxing\n\n\nCursed Child\nRowling\nMalware Analysis Digital Poison Cyber Defense\n\n\n\n\n\nMagic Cyber Classes Data\n\n\n\nClass\nRequired\n\n\n\n\nCyber Defense\nHarry Potter, Strike\n\n\nBoxing\nStrike, Cursed Child\n\n\nDigital Poison\nStrike, Cursed Child, Harry Potter\n\n\nMalware Analysis\nGame of Thrones, Strike"
+  },
+  {
+    "objectID": "t3_databases/meetings/index.html",
+    "href": "t3_databases/meetings/index.html",
+    "title": "Folders VS Databases: List of Meetings",
+    "section": "",
+    "text": "Navigation\nup\n\n\nMeetings\nMeeting 1\nMeeting 2\nMeeting 3\nMeeting 4\nMeeting 5"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-05.html",
+    "href": "t3_databases/meetings/meeting-05.html",
+    "title": "Meeting-05",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/28\nVery Important\nIsabella, Miguel, Ava, Ethan, Jordan, Tyler\n\n\n\nindex"
+  },
+  {
+    "objectID": "t3_databases/meetings/meeting-02.html",
+    "href": "t3_databases/meetings/meeting-02.html",
+    "title": "Meeting-02",
+    "section": "",
+    "text": "Date\nTags\nParticipants\n\n\n\n\n01/25\nVery Important\nNatalie, Samantha, Ava, Ethan, Tyler\n\n\n\nindex"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Topic 3: From Data Bases to Data Collection"
+  }
+]

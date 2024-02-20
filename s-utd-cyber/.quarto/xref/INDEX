@@ -1,0 +1,98 @@
+{
+  "about.qmd": {
+    "about.html": "7bffe6a6"
+  },
+  "assignments/01_problem_set.qmd": {
+    "01_problem_set.html": "6f7fb97c"
+  },
+  "assignments/02_problem_set.qmd": {
+    "02_problem_set.html": "00ea5162"
+  },
+  "assignments/03_problem_set.qmd": {
+    "03_problem_set.html": "46e2233f"
+  },
+  "assignments/04_problem_set.qmd": {
+    "04_problem_set.html": "fb999693"
+  },
+  "assignments/05_problem_set.qmd": {
+    "05_problem_set.html": "c55d4919"
+  },
+  "assignments/06_problem_set.qmd": {
+    "06_problem_set.html": "ae1d5e05"
+  },
+  "assignments/07_problem_set.qmd": {
+    "07_problem_set.html": "4a801560"
+  },
+  "assignments/08_problem_set.qmd": {
+    "08_problem_set.html": "4131a668"
+  },
+  "assignments/09_problem_set.qmd": {
+    "09_problem_set.html": "930265fb"
+  },
+  "assignments/10_problem_set.qmd": {
+    "10_problem_set.html": "657ba60b"
+  },
+  "assignments/index.qmd": {
+    "index.html": "26dc6f4b"
+  },
+  "assignments/problem-sets.qmd": {
+    "problem-sets.html": "a9164b65"
+  },
+  "caps-01/about.qmd": {
+    "about.html": "d96dbcb8"
+  },
+  "caps-01/index.qmd": {
+    "index.html": "354a1699"
+  },
+  "index.qmd": {
+    "index.html": "0450fde3"
+  },
+  "materials/index.qmd": {
+    "index.html": "7f81f6dd"
+  },
+  "materials/week_01.qmd": {
+    "week_01.html": "a917bcaf"
+  },
+  "materials/week_02.qmd": {
+    "week_02.html": "1aea6d49"
+  },
+  "materials/week_03.qmd": {
+    "week_03.html": "8c85f8cf"
+  },
+  "materials/week_04.qmd": {
+    "week_04.html": "5f4833cb"
+  },
+  "materials/week_05.qmd": {
+    "week_05.html": "2ede3437"
+  },
+  "materials/week_06.qmd": {
+    "week_06.html": "92eeb31b"
+  },
+  "materials/week_07.qmd": {
+    "week_07.html": "efe222e2"
+  },
+  "materials/week_08.qmd": {
+    "week_08.html": "84255440"
+  },
+  "materials/week_09.qmd": {
+    "week_09.html": "d15f140c"
+  },
+  "materials/week_10.qmd": {
+    "week_10.html": "23947046"
+  },
+  "materials/week_11.qmd": {
+    "week_11.html": "9dacfa6d"
+  },
+  "materials/week_12.qmd": {
+    "week_12.html": "ee4d99d8"
+  },
+  "materials/week_13.qmd": {
+    "week_13.html": "060bd041"
+  },
+  "schedule.qmd": {
+    "schedule.html": "805329de"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "20f6a733"
+  }
+}

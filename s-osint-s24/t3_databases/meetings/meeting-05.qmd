@@ -1,0 +1,25 @@
+---
+title: "Meeting-05"
+---
+
+
+
+| Date | Tags           | Participants |
+|------|----------------|--------------|
+| 01/28   | Very Important | [Isabella](02), [Miguel](03), [Ava](07), [Ethan](09), [Jordan](05), [Tyler](06) |
+
+
+
+
+
+[index](index)
+
+
+<!--
+| 01/24   | Important      | [Samantha](01), [Isabella](02), [Miguel](03), [Alex](04), [Jordan](05), [Tyler](06), [Ava](07) |
+| 01/25   | Very Important | [Natalie](08), [Samantha](01), [Ava](07), [Ethan](09), [Tyler](06) |
+| 01/26   | Important      | [Natalie](08), [Isabella](02), [Omar](10), [Alex](04) |
+| 01/27   | Very Important | [Ava](07), [Ethan](09), [Omar](10), [Isabella](02) |
+
+-->
+
