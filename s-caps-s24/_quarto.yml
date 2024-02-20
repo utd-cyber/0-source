@@ -7,22 +7,30 @@ project:
     - "!files/"
 
 website:
-  title: "Gov 2002"
-  favicon: "files/img/gov2002-shield.png"
+  title: "Capstone in Cyber: Security & Policy"
+  favicon: "files/img/sobolev-cyber-logo.png"
   navbar:
     pinned: true
-    background: "#3498db"
+    background: "#d47f41"
     right:
-      - syllabus.qmd
-      - schedule.qmd
-      - text: "Materials"
-        file: materials/index.qmd
-      - text: "Assignments"
-        file: assignments/index.qmd
-      - text: "Ed"
-        href: https://edstem.org/us/courses/45093/discussion/
-      - text: "Gradescope"
-        href: https://www.gradescope.com/courses/589033
+       - text: "Upper Folder"
+         href: ..
+       - text: "Index"
+         href: index
+       - text: "CyberSpace"
+         href: https://utd-cyber.github.io/
+#      - syllabus.qmd
+#      - schedule.qmd
+#      - syllabus.qmd
+#      - schedule.qmd
+#      - text: "Materials"
+#        file: materials/index.qmd
+#      - text: "Assignments"
+#        file: assignments/index.qmd
+#      - text: "Ed"
+#        href: https://edstem.org/us/courses/45093/discussion/
+#      - text: "Gradescope"
+#        href: https://www.gradescope.com/courses/589033
 
   sidebar:
     - title: "Materials"
