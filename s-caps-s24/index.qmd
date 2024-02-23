@@ -19,7 +19,7 @@ course-logo: /files/img/sobolev-cyber-logo.png
 
 
 
-
+[R-Handout-Machine-Learning](0-W06-ML.zip)
 
 
 <!--

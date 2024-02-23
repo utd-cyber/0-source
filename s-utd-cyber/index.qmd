@@ -2,7 +2,7 @@
 title: "Cyber Classes"
 subtitle: "Program: Cyber: Policy & Security"
 details: |
-   Spring • '24<br> UT Dallas
+   ■ Spring'24<br> □□ UT Dallas
 sidebar: false
 toc: false
 page-layout: full
