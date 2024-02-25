@@ -1,7 +1,122 @@
 ---
-title: "Index"
+title: "Cyber Classes"
+subtitle: "Open-Source Intelligence"
+details: |
+   S'24<br> UT Dallas
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: /files/img/sobolev-cyber-logo.png
 ---
-
 
 [Topic 3: From Data Bases to Data Collection](t3_databases/)
 
+
+### ■ Module 1: Toolkit Trek
+□ OsInt: An Overlap of Science & Practice □ Data-Base VS Folder-Base
+□ Automations
+
+### ■ Module 2: Patterns & Inferences from Patterns
+□ [Automated Data Collection]() □ Advanced eSearch □ Automated eSearch
+□ Text as Data: Text as Data-Source VS Text as Observation
+□ Inferences From Text: Static & Dynamic Cases
+
+### ■ Module 3: Networks & Inferences from Networks
+□ Network Analysis □ Social Media Intelligence
+□ Cryptocurrency Investigations
+
+### ■ Module 4: OsInt for Cyber: Selected Chapters
+□ DarkWeb Investigations □ Illicit Markets
+□ GeoSpatial Intelligence
+
+[R-Handout-Machine-Learning](0-W06-ML.zip)
+
+
+<!--
+
+
+
+
+
+::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-12 .g-col-md-8}
+
+
+
+### Teaching Team
+
+#### Head Instructor
+
+::: {.grid}
+
+::: {.g-col-3}
+
+
+![Link]()
+
+:::
+
+::: {.g-col-9}
+
+
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
+- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var instructor.appointment_url >}})
+
+::: 
+
+:::
+
+#### Teaching Fellow
+
+::: {.grid}
+
+::: {.g-col-3}
+
+
+![](files/img/mitsuru.jpg)
+ 
+:::
+
+::: {.g-col-9}
+
+
+
+- {{< fa user >}} &nbsp; [Mitsuru Mukaigawara](https://www.mitsurumukaigawara.com)
+- {{< fa envelope >}} &nbsp; <a href="mailto:mailto:mitsuru_mukaigawara@g.harvard.edu">mitsuru_mukaigawara@g.harvard.edu</a>
+
+
+::: 
+
+:::
+
+
+:::
+
+
+::: {.g-col-12 .g-col-md-4 .contact-policy}
+
+### Course details
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
+- {{< fa clock >}} &nbsp; {{< var course.time >}}
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+- {{< fa brands slack >}} &nbsp; [Slack]({{< var course.slack >}})
+
+### Contacting us
+
+{{< var instructor.contact_policy >}}
+:::
+
+:::
+
+-->

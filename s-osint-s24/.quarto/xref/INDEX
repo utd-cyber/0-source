@@ -37,5 +37,89 @@
   },
   "t3_databases/01-cyberbooks.qmd": {
     "01-cyberbooks.html": "1ff47ce8"
+  },
+  "assignments/01_problem_set.qmd": {
+    "01_problem_set.html": "a9afc3db"
+  },
+  "assignments/02_problem_set.qmd": {
+    "02_problem_set.html": "d58e3a3d"
+  },
+  "assignments/03_problem_set.qmd": {
+    "03_problem_set.html": "9c74264b"
+  },
+  "assignments/04_problem_set.qmd": {
+    "04_problem_set.html": "76d6075d"
+  },
+  "assignments/05_problem_set.qmd": {
+    "05_problem_set.html": "d81c2f99"
+  },
+  "assignments/06_problem_set.qmd": {
+    "06_problem_set.html": "8a946d1c"
+  },
+  "assignments/07_problem_set.qmd": {
+    "07_problem_set.html": "7989d8a3"
+  },
+  "assignments/08_problem_set.qmd": {
+    "08_problem_set.html": "d2958f6c"
+  },
+  "assignments/09_problem_set.qmd": {
+    "09_problem_set.html": "e62358e0"
+  },
+  "assignments/10_problem_set.qmd": {
+    "10_problem_set.html": "d42f44d4"
+  },
+  "assignments/index.qmd": {
+    "index.html": "f7bc07e0"
+  },
+  "assignments/problem-sets.qmd": {
+    "problem-sets.html": "982f5f15"
+  },
+  "materials/index.qmd": {
+    "index.html": "c7931310"
+  },
+  "materials/week_01.qmd": {
+    "week_01.html": "7082a7f1"
+  },
+  "materials/week_02.qmd": {
+    "week_02.html": "de64f359"
+  },
+  "materials/week_03.qmd": {
+    "week_03.html": "e0da91fa"
+  },
+  "materials/week_04.qmd": {
+    "week_04.html": "cef023f6"
+  },
+  "materials/week_05.qmd": {
+    "week_05.html": "f528ab73"
+  },
+  "materials/week_06.qmd": {
+    "week_06.html": "137eb463"
+  },
+  "materials/week_07.qmd": {
+    "week_07.html": "57222d20"
+  },
+  "materials/week_08.qmd": {
+    "week_08.html": "142a2d1b"
+  },
+  "materials/week_09.qmd": {
+    "week_09.html": "258f5e06"
+  },
+  "materials/week_10.qmd": {
+    "week_10.html": "b9338e83"
+  },
+  "materials/week_11.qmd": {
+    "week_11.html": "5b1237d1"
+  },
+  "materials/week_12.qmd": {
+    "week_12.html": "32816705"
+  },
+  "materials/week_13.qmd": {
+    "week_13.html": "62c60160"
+  },
+  "schedule.qmd": {
+    "schedule.html": "130bef90"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "0d19cf56"
   }
 }
