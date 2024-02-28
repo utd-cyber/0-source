@@ -139,17 +139,70 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="topic-1-machine-learning-for-cyber" class="level1">
-<h1>Topic [1]: Machine Learning for Cyber</h1>
+<h1>Topic 1: Machine Learning for Cyber</h1>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip with Title
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<div class="callout-body-container callout-body">
+<p>This is an example of a callout with a title.</p>
+</div>
+</div>
+</div>
+<p><a href="#link">Link to Slides</a></p>
 </section>
 <section id="topic-2-machine-learning-for-cyber" class="level1">
 <h1>Topic 2: Machine Learning for Cyber</h1>
 <div class="grid">
-<div class="column" style="width:50%;">
-<p><em>Slides</em> <a href="slides.pdf">Machine Learning</a></p>
+<div class="g-col-12">
+<p><strong>Slides</strong></p>
+<p>□ <a href="slides.pdf">Machine Learning</a></p>
 </div>
-<div class="column" style="width:50%;">
+<div class="g-col-12">
 <p><strong>Code</strong></p>
-<p><a href="R-Handout-3-ML-I.Rmd.zip">R-Handout-Machine-Learning-Updated</a> <a href="dogs.txt">Dog Look as Data Table</a></p>
+<p>□ <a href="R-Handout-3-ML-I.Rmd.zip">R Handout 3: Machine Learning</a></p>
+<p>□ <a href="dogs.txt">Dog Look as Data Table</a></p>
+</div>
+</div>
+</section>
+<section id="servers" class="level1">
+<h1>Servers</h1>
+<pre><code># url &lt;- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+# Use httr::GET to fetch the CSV content without SSL certificate verification
+    # library(httr)
+# response &lt;- GET(url, config = httr::config(ssl_verifypeer = 0L))
+# csv_content &lt;- content(response, "text")
+# require(data.table)</code></pre>
+</section>
+<section id="a---69" class="level1">
+<h1>a &lt;- 69</h1>
+</section>
+<section id="section" class="level1">
+<h1><code data-type="pre-exercise-code" data-lang="r"></code></h1><code data-type="pre-exercise-code" data-lang="r">
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+<div data-datacamp-exercise="" data-lang="r">
+<p><code data-type="pre-exercise-code"> a &lt;- 35 url &lt;- “https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv” </code></p>
+<p><code data-type="sample-code"> # Server 1 </code></p>
+<p><code data-type="solution"> # Create a variable a, equal to 5 a &lt;- 5</code></p><code data-type="solution">
+<pre><code># Print out a
+print(a)</code></pre>
+</code><p><code data-type="solution"></code></p>
+<!--
+<code data-type="sct">
+    test_object("a")
+    test_function("print")
+    success_msg("Great job!")
+</code>
+-->
+<div data-type="hint">
+Use the assignment operator (<code>&lt;-</code>) to create the variable <code>a</code>
 </div>
 </div>
 <!--
@@ -244,9 +297,9 @@ General questions about the course should be posted to either the course Ed Disc
 -->
 
 
-</section>
+</code></section><code data-type="pre-exercise-code" data-lang="r">
 
-</main> <!-- /main -->
+</code></main><code data-type="pre-exercise-code" data-lang="r"> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -634,9 +687,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+</code></div><code data-type="pre-exercise-code" data-lang="r"> <!-- /content -->
 
 
 
 
-</body></html>
+</code></body></html>

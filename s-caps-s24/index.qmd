@@ -13,29 +13,129 @@ format:
 course-logo: /files/img/sobolev-cyber-logo.png
 ---
 
-# Topic [1]: Machine Learning for Cyber
+# Topic 1: Machine Learning for Cyber
 
+::: {.callout-caution collapse="true}
+
+## Tip with Title
+
+This is an example of a callout with a title.
+:::
+
+
+[Link to Slides](#link)
 
 # Topic 2: Machine Learning for Cyber
 
 ::: {.grid}
-::: {.column width="50%"}
-*Slides*
-[Machine Learning](slides.pdf)
+
+::: {.g-col-12}
+
+**Slides**
+
+□ [Machine Learning](slides.pdf)
 
 :::
-::: {.column width="50%"}
+
+::: {.g-col-12}
+
 **Code** 
 
-[R-Handout-Machine-Learning-Updated](R-Handout-3-ML-I.Rmd.zip)
-[Dog Look as Data Table](dogs.txt)
+□ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip)
 
+□ [Dog Look as Data Table](dogs.txt)
 
 :::
 :::
 
 
 
+# Servers
+
+
+text
+
+```
+# url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+# Use httr::GET to fetch the CSV content without SSL certificate verification
+    # library(httr)
+# response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
+# csv_content <- content(response, "text")
+# require(data.table)
+```
+
+> block quote
+
+text
+
+::: {.collapse}
+### Section Title
+Collapsible content here.
+### Section Title
+Collapsible content here.
+:::
+
+
+
+asdfasdfasd
+
+::: {.collapse}
+# Section Title
+Collapsible content here.
+# Section Title
+Collapsible content here.
+## Section Title
+Collapsible content here.
+:::
+
+Side-by-Side
+
+
+::: {.panel-tabset}
+## Tab Title 1
+Content for tab 1.
+
+## Tab Title 2
+Content for tab 2.
+:::
+
+
+
+# a <- 69
+# <code data-type="pre-exercise-code" data-lang="r">
+
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+<div data-datacamp-exercise data-lang="r">
+
+<code data-type="pre-exercise-code">
+a <- 35
+url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+</code>
+
+<code data-type="sample-code">
+    # Server 1
+</code>
+
+<code data-type="solution">
+    # Create a variable a, equal to 5
+    a <- 5
+
+    # Print out a
+    print(a)
+</code>
+
+<!--
+<code data-type="sct">
+    test_object("a")
+    test_function("print")
+    success_msg("Great job!")
+</code>
+-->
+
+  <div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>
+  </div>
+
+</div>
 
 
 <!--
