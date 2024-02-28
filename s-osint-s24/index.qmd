@@ -2,7 +2,7 @@
 title: "Cyber Classes"
 subtitle: "Open-Source Intelligence"
 details: |
-   S'24<br> UT Dallas
+   S'24<br> UT Dallas 
 sidebar: false
 toc: false
 page-layout: full
@@ -13,33 +13,34 @@ format:
 course-logo: /files/img/sobolev-cyber-logo.png
 ---
 
-[Topic 3: From Data Bases to Data Collection](t3_databases/)
+[Topic 3: From Data Bases to Data Collection]()
 
 
 ### ■ Module 1: Toolkit Trek
 □ OsInt: An Overlap of Science & Practice □ Data-Base VS Folder-Base
+
 □ Automations
 
 ### ■ Module 2: Patterns & Inferences from Patterns
-□ [Automated Data Collection]() □ Advanced eSearch □ Automated eSearch
+□ [Automated Data Collection](t3_databases/) □ Advanced eSearch □ Automated eSearch
+
 □ Text as Data: Text as Data-Source VS Text as Observation
+
 □ Inferences From Text: Static & Dynamic Cases
 
 ### ■ Module 3: Networks & Inferences from Networks
 □ Network Analysis □ Social Media Intelligence
+
 □ Cryptocurrency Investigations
 
 ### ■ Module 4: OsInt for Cyber: Selected Chapters
 □ DarkWeb Investigations □ Illicit Markets
+
 □ GeoSpatial Intelligence
 
-[R-Handout-Machine-Learning](0-W06-ML.zip)
 
 
 <!--
-
-
-
 
 
 ::: {.grid .course-details}

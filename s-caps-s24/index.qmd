@@ -17,9 +17,13 @@ course-logo: /files/img/sobolev-cyber-logo.png
 
 # Topic 2: Machine Learning for Cyber
 
+[R-Handout-Machine-Learning-Updated](R-Handout-3-ML-I.Rmd.zip)
+
+[Slides Machine Learning](slides.pdf)
+
+[Dogs as Data Tables-1](dogs.txt)
 
 
-[R-Handout-Machine-Learning](0-W06-ML.zip)
 
 
 <!--
