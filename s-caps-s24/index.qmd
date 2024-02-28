@@ -1,8 +1,8 @@
 ---
-title: "Cyber Classes"
-subtitle: "Program: Cyber: Policy & Security"
+title: "Capstone in Cyber"
+subtitle: "Spring '24"
 details: |
-   Spring • '24<br> UT Dallas
+         | UT Dallas
 sidebar: false
 toc: false
 page-layout: full
@@ -13,15 +13,27 @@ format:
 course-logo: /files/img/sobolev-cyber-logo.png
 ---
 
+# Topic [1]: Machine Learning for Cyber
 
 
 # Topic 2: Machine Learning for Cyber
 
+::: {.grid}
+::: {.column width="50%"}
+*Slides*
+[Machine Learning](slides.pdf)
+
+:::
+::: {.column width="50%"}
+**Code** 
+
 [R-Handout-Machine-Learning-Updated](R-Handout-3-ML-I.Rmd.zip)
+[Dog Look as Data Table](dogs.txt)
 
-[Slides Machine Learning](slides.pdf)
 
-[Dogs as Data Tables-1](dogs.txt)
+:::
+:::
+
 
 
 
