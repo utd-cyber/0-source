@@ -53,21 +53,22 @@ This is an example of a callout with a title  3.
 
 ::: {.grid}
 
-::: {.g-col-6}
-**Slides**
+  ::: {.g-col-6}
+  <iframe src="slides.pdf" width="100%"></iframe>
+  :::
 
-□ [Machine Learning](slides.pdf)
+  ::: {.g-col-6}
+  **Slides**
 
-<iframe src="slides.pdf" width="100%"></iframe>
-:::
+  □ [Machine Learning](slides.pdf)
 
-::: {.g-col-6}
-**Code** 
+  **Code** 
 
-□ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip)
+  □ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip)
 
-□ [Dog Look as Data Table](dogs.txt)
-:::
+  □ [Dog Look as Data Table](dogs.txt)
+  
+  :::
 
 :::
 
@@ -81,6 +82,9 @@ This is an example of a callout with a title  3.
 | □ [Machine Learning](slides.pdf) | □ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip) | 
 |                                  | □ [Dog Look as Data Table](dogs.txt)| 
 ||<iframe src="slides.pdf" height="100%"| 
+
+sadfasdfasd
+
 
 
 # Servers
@@ -132,7 +136,13 @@ url
 
 
 # 3 Other Experiments
-Content for tab 2.
+
+
+
+
+
+
+
 
 
 :::
