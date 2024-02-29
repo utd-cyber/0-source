@@ -16,7 +16,6 @@ format:
 course-logo: /files/img/sobolev-cyber-logo.png
 ---
 
-
 - 1 2 3
   * 3 4 5
 
@@ -34,8 +33,13 @@ This content is hidden by default and will be shown when the summary is clicked.
 
 ::: {.callout}
 
-### Guidelines
+# Guidelines 3
 This is an example of a callout with a title  3.
+
+# Guidelines 4
+This is an example of a callout with a title  4.
+
+
 :::
 
 text 1
@@ -67,7 +71,7 @@ This is an example of a callout with a title  3.
   □ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip)
 
   □ [Dog Look as Data Table](dogs.txt)
-  
+
   :::
 
 :::

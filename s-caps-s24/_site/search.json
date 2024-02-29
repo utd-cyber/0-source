@@ -1,0 +1,187 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "1 1 1\n\n\n\n1 1\n\n\n\n\n1 1 1"
+  },
+  {
+    "objectID": "syllabus.html#description",
+    "href": "syllabus.html#description",
+    "title": "Syllabus",
+    "section": "Description",
+    "text": "Description\nDescription"
+  },
+  {
+    "objectID": "materials/week_12.html#slides",
+    "href": "materials/week_12.html#slides",
+    "title": "Week 12: Algebra of Least Squares",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Capstone in Cyber\n        ",
+    "section": "",
+    "text": "Spring ’24\n        \n        \n            UT Dallas\ntext 1"
+  },
+  {
+    "objectID": "index.html#sub-servers",
+    "href": "index.html#sub-servers",
+    "title": "\n            Capstone in Cyber\n        ",
+    "section": "Sub-Servers",
+    "text": "Sub-Servers\n\n1 Code Execution2 Server3 Other Experiments\n\n\n\nurl &lt;- 'cyber-utd.github.io'\nurl\n\n[1] \"cyber-utd.github.io\"\n\n\n\n\n\n\n&lt;code data-type=\"pre-exercise-code\"&gt;\n    # This will get executed each time the exercise gets initialized\n    b = 6\n&lt;/code&gt;\n&lt;code data-type=\"sample-code\"&gt;\n    # Create a variable a, equal to 5\n\n\n    # Print out a\n\n\n&lt;/code&gt;\n&lt;code data-type=\"solution\"&gt;\n    # Create a variable a, equal to 5\n    a &lt;- 5\n\n    # Print out a\n    print(a)\n&lt;/code&gt;\n&lt;code data-type=\"sct\"&gt;\n    test_object(\"a\")\n    test_function(\"print\")\n    success_msg(\"Great job!\")\n&lt;/code&gt;\n&lt;div data-type=\"hint\"&gt;Use the assignment operator  to create the variable &lt;code&gt;a&lt;/code&gt;.&lt;/div&gt;\n\n\n\n\n\n\n\ntext\n\nCollapsible Section Title\nContent that can be shown or hidden.\n\nCode Starts Here"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments overview",
+    "section": "",
+    "text": "Here you will find a links to assignments and resources for those assignments.",
+    "crumbs": [
+      "Resources",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#resources",
+    "href": "assignments/index.html#resources",
+    "title": "Assignments overview",
+    "section": "Resources",
+    "text": "Resources\n\nProblem set instructions",
+    "crumbs": [
+      "Resources",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#problem-sets",
+    "href": "assignments/index.html#problem-sets",
+    "title": "Assignments overview",
+    "section": "Problem sets",
+    "text": "Problem sets\n\nProblem Set 1\nProblem Set 2\nProblem Set 3\nProblem Set 4\nProblem Set 5\nProblem Set 6\nProblem Set 7\nProblem Set 8\nProblem Set 9\nProblem Set 10",
+    "crumbs": [
+      "Resources",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "assignments/09_problem_set.html",
+    "href": "assignments/09_problem_set.html",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "",
+    "text": "Submission instructions | PDF  | Rmd  |",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/09_problem_set.html#problem-set-instructions",
+    "href": "assignments/09_problem_set.html#problem-set-instructions",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "Problem Set Instructions",
+    "text": "Problem Set Instructions\nThis problem set is due on November 29, 11:59 pm Eastern time. Please upload a PDF of your solutions to Gradescope. We will accept hand-written solutions but we strongly advise you to typeset your answers in Rmarkdown. Please list the names of other students you worked with on this problem set.",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/09_problem_set.html#question-1-30-points",
+    "href": "assignments/09_problem_set.html#question-1-30-points",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "Question 1 (30 points)",
+    "text": "Question 1 (30 points)\nOften our data is collected with error, which we refer to as measurement error. For instance, for a dependent variable \\(Y\\) you’re trying to measure in a survey, respondents may randomly mis-click, or they may systematically lie about having a socially undesirable trait. In this question, we will explore the impact of measurement error in regression analysis in the most favourable case where the measurement error is independent of the true values. Consider the linear projection:\n\\[\nL[Y \\mid 1, X] = \\beta_0 + \\beta_1X\n\\]\nwith the projection error denoted as \\(e = Y - L[Y \\mid 1, X]\\), and \\(\\mathbb{V}[X] = \\sigma_X^2\\). Unfortunately, we do not observe \\(Y\\) or \\(X\\) but instead noisy proxies for them \\(\\{\\tilde{Y}, \\tilde{X}\\}\\), where\n\\[\n\\tilde{Y} = Y + v, \\quad \\tilde{X} = X + w\n\\]\nWhere \\(v\\) is one realization from \\(V \\sim \\mathcal{N}\\left(0, \\sigma_{v}^{2}\\right)\\) and \\(w\\) is one realization from \\(W \\sim \\mathcal{N}\\left(0, \\sigma_{w}^{2}\\right)\\), where \\(W\\) and \\(V\\) are independent of \\(X\\) and \\(Y\\). This implies that \\(\\operatorname{Cov}(v,X)=\\operatorname{Cov}(v, e)=\\operatorname{Cov}(v, w)=\\operatorname{Cov}(w, X)=\\operatorname{Cov}(w, e)=\\operatorname{Cov}(w, v)=0\\). This is commonly referred to as classical measurement error.\n\nConsider the linear projection of these observable variables, \\(L[\\tilde{Y} \\mid 1, \\tilde{X}]=\\alpha_{0}+\\alpha_{1} \\tilde{X}\\). Find \\(\\alpha_{1}\\) in terms of \\(\\left\\{\\beta_{1}, \\sigma_{w}^{2}, \\sigma_{v}^{2}, \\sigma_{X}^{2}\\right\\}\\). Hint: first derive an expression of the coefficients in terms of the \\(\\tilde{X}\\) and \\(\\tilde{Y}\\).\nFrom your expression in part (a), briefly explain (1-2 sentences) the effect of this type of measurement error in \\(X\\) on the sign and magnitude of the coefficient \\(\\alpha_{1}\\) compared to \\(\\beta_{1}\\). Hint: what parameter controls the amount of measurement error in \\(X\\)?\nFrom your expression in part (a), briefly explain (1-2 sentences) the effect of this type of measurement error in \\(Y\\) on the sign and magnitude of the coefficient \\(\\alpha_1\\) compared to \\(\\beta_1\\). Hint: what parameter controls the amount of measurement error in \\(Y\\)?",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/09_problem_set.html#question-2-20-points",
+    "href": "assignments/09_problem_set.html#question-2-20-points",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "Question 2 (20 points)",
+    "text": "Question 2 (20 points)\nDecide whether each of the following statements are true or false and explain your reasoning briefly.\n\nIf \\(Y = X\\beta + e\\), \\(X \\in \\mathbb{R}\\), and \\(E[e|X] = 0\\), then \\(E[e] = 0\\).\nIf \\(Y = X\\beta + e\\), \\(X \\in \\mathbb{R}\\), and \\(E[e|X] = 0\\), then \\(E[X^3 e] = 0\\).\nIf \\(Y = X\\beta + e\\), \\(X \\in \\mathbb{R}\\), and \\(E[Xe] = 0\\), then \\(E[X^2 e] = 0\\).\nIf \\(Y = X\\beta + e\\), \\(X \\in \\mathbb{R}\\), and \\(E[e|X] = 0\\), then \\(e\\) and \\(X\\) are independent.",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/09_problem_set.html#question-3-30-points",
+    "href": "assignments/09_problem_set.html#question-3-30-points",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "Question 3 (30 points)",
+    "text": "Question 3 (30 points)\nIn most linear regression models, the dependent variable \\(Y\\) is expressed as a function of independent variables \\(X_1, X_2, ..., X_k\\) (or to use the vector notation, just \\(X\\) as a vector in \\(\\mathbb{R}^k\\)). That is, \\[\nY = X\\beta + e\n\\] where \\(\\beta\\) is a \\(k \\times 1\\) coefficient vector and \\(e\\) is the error.\n\nExplain briefly what it means for \\(g(X)\\), a function of \\(X\\), to be the best predictor of \\(Y\\).\nShow that for \\(g(X)\\) to be the best predictor, \\(g(X)\\) must be equal to the conditional expectation function \\(E[Y|X]\\). ( You can assume that, for the CEF error \\(e = Y - E[Y|X]\\), we have \\(E\\big|e\\{E[Y|X] - g(X)\\}\\big| &lt; \\infty\\)).\n\nNow, for unifying definition, we also need to consider an model, where there is no \\(X\\) and \\(\\alpha\\) is simply a constant: \\[\nY = \\alpha + e\n\\]\n\nFind \\(\\underset{\\alpha}{\\operatorname{argmin}} E[(Y - \\alpha)^2]\\).",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/09_problem_set.html#question-4-20-points",
+    "href": "assignments/09_problem_set.html#question-4-20-points",
+    "title": "Gov 2002: Problem Set 9",
+    "section": "Question 4 (20 points)",
+    "text": "Question 4 (20 points)\nSuppose you are interested in the association between income and race, gender, and education. The dependent variable \\(Y\\) is income in USD. The independent variables are age, gender, and education, where\nYou are especially interested in interactions among these variables, and run a linear regression model only with a three-way interaction term: \\[\nY = \\beta_0 + \\beta_1 X_aX_gX_e\n\\]\n\nDerive the marginal effects of \\(X_a, X_g\\), and \\(X_e\\).\n\nDetermine whether the following statements (b-d) are true or false and explain your reasoning briefly.\n\nComparing (i) men whose age is 30 years and (ii) men whose age is 50 years, we find that (ii) men whose age is 50 years earn \\(\\beta_1\\) dollars more than (i) men whose age is 30 years.\nComparing (i) women whose age is 30 years and who has no college degree and (ii) women whose age is 50 years and who has no college degree, we find that (ii) women whose age is 50 years and who has no college degree earn \\(\\beta_1\\) dollars more than (i) women whose age is 30 years and who has no college degree.\nComparing (i) women whose age is 30 years and who has a college degree and (ii) women whose age is 50 years and who has a college degree, we find that (ii) women whose age is 50 years and who has a college degree earn \\(20 \\times \\beta_1\\) dollars more than (i) women whose age is 30 years and who has a college degree.",
+    "crumbs": [
+      "Assignments",
+      "Problem Set 9"
+    ]
+  },
+  {
+    "objectID": "assignments/problem-sets.html",
+    "href": "assignments/problem-sets.html",
+    "title": "Problem set instructions",
+    "section": "",
+    "text": "We will be submitting the problem sets through Gradescope. When you go to the link, you should log in using your “School Credentials”:\n\n\n\nFrom there, you should see a list of assignments. Choose the one you want to submit and follow the instructions for submission. More help on how to submit an assignment can be found on the Gradescope help site. It is easiest if you submit your solutions as one PDF, but if you are submitting handwritten work, you may also submit a series of images. You arestrongly ecnouraged to submit typeset materials to maximize legibility for grading.\nIf you do submit as a PDF, please use the interface to indicate where your answers to each question are (being sure to mark two different pages if an answer continues on two pages). You can find a video describing the process here:",
+    "crumbs": [
+      "Resources",
+      "Problem set instructions"
+    ]
+  },
+  {
+    "objectID": "assignments/problem-sets.html#submitting-problem-sets",
+    "href": "assignments/problem-sets.html#submitting-problem-sets",
+    "title": "Problem set instructions",
+    "section": "",
+    "text": "We will be submitting the problem sets through Gradescope. When you go to the link, you should log in using your “School Credentials”:\n\n\n\nFrom there, you should see a list of assignments. Choose the one you want to submit and follow the instructions for submission. More help on how to submit an assignment can be found on the Gradescope help site. It is easiest if you submit your solutions as one PDF, but if you are submitting handwritten work, you may also submit a series of images. You arestrongly ecnouraged to submit typeset materials to maximize legibility for grading.\nIf you do submit as a PDF, please use the interface to indicate where your answers to each question are (being sure to mark two different pages if an answer continues on two pages). You can find a video describing the process here:",
+    "crumbs": [
+      "Resources",
+      "Problem set instructions"
+    ]
+  },
+  {
+    "objectID": "assignments/problem-sets.html#problem-set-tips",
+    "href": "assignments/problem-sets.html#problem-set-tips",
+    "title": "Problem set instructions",
+    "section": "Problem set tips",
+    "text": "Problem set tips\nWhen completing a problem set, avoid writing a series of mathematical statements without prose. You should explain each step in any derivation so that both you and the grader can understand what you are doing. This is useful since (a) it helps reinforce the concept for your own understanding, (b) conveys to the grader (and eventually the world) that you understand the concepts that you are using, and (c) helps the grader debug any potential problems with the derivation to provide the highest quality feedback.\nWhen working with mathematical probability and statistics, success usually comes from pattern matching: this problem is isomorphic to some other problem that we’ve done before. Doing that pattern matching takes some experience, but it’s often help to try and strip a problem of its extraneous detail and focus on what the core elements are. Then, if you can’t see the path forward, try to find a problem that we (or the textbooks) have solved that has the same core elements.",
+    "crumbs": [
+      "Resources",
+      "Problem set instructions"
+    ]
+  },
+  {
+    "objectID": "materials/index.html",
+    "href": "materials/index.html",
+    "title": "Readings, lectures, and videos",
+    "section": "",
+    "text": "Each class",
+    "crumbs": [
+      "Overview",
+      "Readings, lectures, and videos"
+    ]
+  }
+]
