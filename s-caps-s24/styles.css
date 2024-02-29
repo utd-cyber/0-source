@@ -1,1 +1,38 @@
 /* css styles */
+.custom-details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
+}
+
+.custom-summary {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    cursor: pointer;
+}
+
+.hidden-content {
+    display: none;
+    padding: 0 0.5em 0.5em;
+}
+
+
+.details-list {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+.details-summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.details-content {
+    display: none;
+    padding-top: 0.5em;
+}
+
+

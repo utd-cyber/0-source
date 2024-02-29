@@ -1,119 +1,138 @@
 ---
 title: "Capstone in Cyber"
 subtitle: "Spring '24"
-details: |
-         | UT Dallas
+details: UT Dallas
 sidebar: false
 toc: false
 page-layout: full
+column: page
 format:
   html:
+    # include-after-body: 
+    # - styles.css
+    # - custom-script.js
     template-partials:
       - html/home/title-block.html
 course-logo: /files/img/sobolev-cyber-logo.png
 ---
 
-# Topic 1: Machine Learning for Cyber
 
-::: {.callout-caution collapse="true}
+- 1 2 3
+  * 3 4 5
 
-## Tip with Title
+::: {.custom-details}
 
-This is an example of a callout with a title.
+**::: {.custom-summary}**Click to see details**:::**
+
+::: {.hidden-content}
+This content is hidden by default and will be shown when the summary is clicked.
+:::
+
 :::
 
 
-[Link to Slides](#link)
 
-# Topic 2: Machine Learning for Cyber
+::: {.callout}
+
+### Guidelines
+This is an example of a callout with a title  3.
+:::
+
+text 1
+
+::: {.callout-warning collapse="true"}
+## Topic 2
+This is an example of a callout with a title  3.
+  ::: {.callout-warning collapse="true"}
+  ## Topic 3
+  This is an example of a callout with a title  3.
+  :::
+
+:::
+
 
 ::: {.grid}
 
-::: {.g-col-12}
-
+::: {.g-col-6}
 **Slides**
 
 □ [Machine Learning](slides.pdf)
-
 :::
 
-::: {.g-col-12}
-
+::: {.g-col-6}
 **Code** 
 
 □ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip)
 
 □ [Dog Look as Data Table](dogs.txt)
+:::
 
 :::
-:::
+
+
+
+# Materials
+
+|  | | 
+|----------|----------|
+|**Slides**                        | **Code** | 
+| □ [Machine Learning](slides.pdf) | □ [R Handout 3: Machine Learning](R-Handout-3-ML-I.Rmd.zip) | 
+|                                  | □ [Dog Look as Data Table](dogs.txt)| 
 
 
 
 # Servers
 
-
-text
-
+```{r}
+url <- 'cyber-utd.github.io'
+url
 ```
-# url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
-# Use httr::GET to fetch the CSV content without SSL certificate verification
-    # library(httr)
-# response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
-# csv_content <- content(response, "text")
-# require(data.table)
-```
-
-> block quote
-
-text
-
-::: {.collapse}
-### Section Title
-Collapsible content here.
-### Section Title
-Collapsible content here.
-:::
-
-
-
-asdfasdfasd
-
-::: {.collapse}
-# Section Title
-Collapsible content here.
-# Section Title
-Collapsible content here.
-## Section Title
-Collapsible content here.
-:::
-
-Side-by-Side
-
 
 ::: {.panel-tabset}
-## Tab Title 1
+# Step 0
 Content for tab 1.
 
-## Tab Title 2
+# Step 1
+Content for tab 1.
+
+# Step 2
 Content for tab 2.
 :::
 
+text
+
+::: {.collapse}
+### Collapsible Section Title
+Content that can be shown or hidden.
+:::
+
+<details>
+<summary>Click to expand
+</summary>
+
+Detailed content goes here.
+</details>
 
 
-# a <- 69
-# <code data-type="pre-exercise-code" data-lang="r">
+
+
+Code Starts Here
 
 <script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
 <div data-datacamp-exercise data-lang="r">
 
 <code data-type="pre-exercise-code">
-a <- 35
-url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+
+b <- c(33,22)
+
 </code>
 
 <code data-type="sample-code">
-    # Server 1
+# Server 1
+
+c <- 335
+
 </code>
 
 <code data-type="solution">
@@ -124,101 +143,21 @@ url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.cs
     print(a)
 </code>
 
-<!--
 <code data-type="sct">
-    test_object("a")
-    test_function("print")
+#    test_object("a")
+     test_object("b")
+     test_object("c")
+#    test_function("print")
     success_msg("Great job!")
 </code>
--->
 
-  <div data-type="hint">Use the assignment operator (<code><-</code>) to create the variable <code>a</code>
-  </div>
+  <div data-type="hint">Use the assignment operator</div>
 
 </div>
 
 
+
 <!--
 
-
-
-
-
-::: {.grid .course-details}
-
-::: {.g-col-12 .g-col-sm-12 .g-col-md-8}
-
-
-
-### Teaching Team
-
-#### Head Instructor
-
-::: {.grid}
-
-::: {.g-col-3}
-
-
-![Link]()
-
-:::
-
-::: {.g-col-9}
-
-
-
-- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
-- {{< fa university >}} &nbsp; {{< var instructor.office >}}
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
-- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
-- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var instructor.appointment_url >}})
-
-::: 
-
-:::
-
-#### Teaching Fellow
-
-::: {.grid}
-
-::: {.g-col-3}
-
-
-![](files/img/mitsuru.jpg)
- 
-:::
-
-::: {.g-col-9}
-
-
-
-- {{< fa user >}} &nbsp; [Mitsuru Mukaigawara](https://www.mitsurumukaigawara.com)
-- {{< fa envelope >}} &nbsp; <a href="mailto:mailto:mitsuru_mukaigawara@g.harvard.edu">mitsuru_mukaigawara@g.harvard.edu</a>
-
-
-::: 
-
-:::
-
-
-:::
-
-
-::: {.g-col-12 .g-col-md-4 .contact-policy}
-
-### Course details
-
-- {{< fa calendar >}} &nbsp; {{< var course.days >}}
-- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
-- {{< fa clock >}} &nbsp; {{< var course.time >}}
-- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
-- {{< fa brands slack >}} &nbsp; [Slack]({{< var course.slack >}})
-
-### Contacting us
-
-{{< var instructor.contact_policy >}}
-:::
-
-:::
-
 -->
+

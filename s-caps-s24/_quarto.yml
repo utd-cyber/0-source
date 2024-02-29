@@ -41,34 +41,8 @@ website:
         - section: "Overview"
           contents:
             - materials/index.qmd
-        - section: "Course Materials"
-          contents:
-            - text: "Week 1: Introduction & Probability"
-              file: materials/week_01.qmd
-            - text: "Week 2: Conditional Probability & Random Variables"
-              file: materials/week_02.qmd
-            - text: "Week 3: Expectation"
-              file: materials/week_03.qmd
-            - text: "Week 4: Continuous Random Variables"
-              file: materials/week_04.qmd
-            - text: "Week 5: Multivariate Distributions"
-              file: materials/week_05.qmd
-            - text: "Week 6: Conditional Expectation"
-              file: materials/week_06.qmd
-            - text: "Week 7: Sampling and Estimation"
-              file: materials/week_07.qmd
-            - text: "Week 8: Asymptotics"
-              file: materials/week_08.qmd
-            - text: "Week 9: More Asymptotics"
-              file: materials/week_09.qmd
-            - text: "Week 10: Hypothesis Tests"
-              file: materials/week_10.qmd
-            - text: "Week 11: Linear Regression"
-              file: materials/week_11.qmd
-            - text: "Week 12: Algebra of Least Squares"
-              file: materials/week_12.qmd
-            - text: "Week 13: Statistics of Least Squares"
-              file: materials/week_13.qmd
+        # - section: "Course Materials"
+        #  contents:
             # - text: "Week 13: Panel and Clustered Data"
             #   file: materials/week_13.qmd
               
