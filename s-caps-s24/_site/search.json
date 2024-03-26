@@ -25,14 +25,7 @@
     "href": "index.html",
     "title": "\n            Capstone in Cyber\n        ",
     "section": "",
-    "text": "Spring ’24\n        \n        \n            UT Dallas\ntext 1"
-  },
-  {
-    "objectID": "index.html#sub-servers",
-    "href": "index.html#sub-servers",
-    "title": "\n            Capstone in Cyber\n        ",
-    "section": "Sub-Servers",
-    "text": "Sub-Servers\n\n1 Code Execution2 Server3 Other Experiments\n\n\n\nurl &lt;- 'cyber-utd.github.io'\nurl\n\n[1] \"cyber-utd.github.io\"\n\n\n\n\n\n\n&lt;code data-type=\"pre-exercise-code\"&gt;\n    # This will get executed each time the exercise gets initialized\n    b = 6\n&lt;/code&gt;\n&lt;code data-type=\"sample-code\"&gt;\n    # Create a variable a, equal to 5\n\n\n    # Print out a\n\n\n&lt;/code&gt;\n&lt;code data-type=\"solution\"&gt;\n    # Create a variable a, equal to 5\n    a &lt;- 5\n\n    # Print out a\n    print(a)\n&lt;/code&gt;\n&lt;code data-type=\"sct\"&gt;\n    test_object(\"a\")\n    test_function(\"print\")\n    success_msg(\"Great job!\")\n&lt;/code&gt;\n&lt;div data-type=\"hint\"&gt;Use the assignment operator  to create the variable &lt;code&gt;a&lt;/code&gt;.&lt;/div&gt;\n\n\n\n\n\n\n\ntext\n\nCollapsible Section Title\nContent that can be shown or hidden.\n\nCode Starts Here"
+    "text": "Capstone in Cyber\n        \n        \n            Spring ’24\n        \n        \n            UT Dallas\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\nR-Handout-ML-2.zip"
   },
   {
     "objectID": "assignments/index.html",
